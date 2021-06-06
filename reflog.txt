@@ -1,0 +1,17 @@
+11911dd HEAD@{0}: checkout: moving from 11911ddeb57d6917cedd3c78aa582384e79380ae to detachedHeadBranch
+11911dd HEAD@{1}: commit: detach commit
+8a0632f HEAD@{2}: checkout: moving from main to 8a063
+ff23fe7 HEAD@{3}: pull: Fast-forward
+903ec36 HEAD@{4}: checkout: moving from texts to main
+d3a762b HEAD@{5}: commit: Kant rozprawa
+8a0632f HEAD@{6}: commit: Lorem ipsum
+903ec36 HEAD@{7}: checkout: moving from main to texts
+903ec36 HEAD@{8}: pull: Fast-forward
+4e14b68 HEAD@{9}: checkout: moving from personal_details to main
+fded096 HEAD@{10}: checkout: moving from main to personal_details
+4e14b68 HEAD@{11}: checkout: moving from personal_details to main
+fded096 HEAD@{12}: commit: E-mail adress
+885e903 HEAD@{13}: commit: Index number
+306855e HEAD@{14}: commit: First name and last name
+4e14b68 HEAD@{15}: checkout: moving from main to personal_details
+4e14b68 HEAD@{16}: clone: from https://github.com/janek2j/gitzal.git
